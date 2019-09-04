@@ -1,0 +1,11 @@
+C:\Users\Aires\source\repos\MongoDB_DotNetCore\ExemplosMongoDBObjs\bin\Debug\netcoreapp2.2\ExemplosMongoDBObjs.deps.json
+C:\Users\Aires\source\repos\MongoDB_DotNetCore\ExemplosMongoDBObjs\bin\Debug\netcoreapp2.2\ExemplosMongoDBObjs.runtimeconfig.json
+C:\Users\Aires\source\repos\MongoDB_DotNetCore\ExemplosMongoDBObjs\bin\Debug\netcoreapp2.2\ExemplosMongoDBObjs.runtimeconfig.dev.json
+C:\Users\Aires\source\repos\MongoDB_DotNetCore\ExemplosMongoDBObjs\bin\Debug\netcoreapp2.2\ExemplosMongoDBObjs.dll
+C:\Users\Aires\source\repos\MongoDB_DotNetCore\ExemplosMongoDBObjs\obj\Debug\netcoreapp2.2\ExemplosMongoDBObjs.csproj.CoreCompileInputs.cache
+C:\Users\Aires\source\repos\MongoDB_DotNetCore\ExemplosMongoDBObjs\obj\Debug\netcoreapp2.2\ExemplosMongoDBObjs.AssemblyInfoInputs.cache
+C:\Users\Aires\source\repos\MongoDB_DotNetCore\ExemplosMongoDBObjs\obj\Debug\netcoreapp2.2\ExemplosMongoDBObjs.AssemblyInfo.cs
+C:\Users\Aires\source\repos\MongoDB_DotNetCore\ExemplosMongoDBObjs\bin\Debug\netcoreapp2.2\ExemplosMongoDBObjs.pdb
+C:\Users\Aires\source\repos\MongoDB_DotNetCore\ExemplosMongoDBObjs\obj\Debug\netcoreapp2.2\ExemplosMongoDBObjs.dll
+C:\Users\Aires\source\repos\MongoDB_DotNetCore\ExemplosMongoDBObjs\obj\Debug\netcoreapp2.2\ExemplosMongoDBObjs.pdb
+C:\Users\Aires\source\repos\MongoDB_DotNetCore\ExemplosMongoDBObjs\obj\Debug\netcoreapp2.2\ExemplosMongoDBObjs.csprojAssemblyReference.cache
